@@ -15,3 +15,5 @@ The project is developed for a competition.
 * Numpy
 * Pandas
 * Flask
+
+### Developed by Nikola Kolarov and Ivan Terziev
